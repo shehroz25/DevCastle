@@ -1,1 +1,3 @@
 # DevCastle
+
+Dev Castle, a web-based project, offers essential features enabling student registration, course management, and course-related inquiries. Recently, I conducted comprehensive automation testing for this project using Selenium with Java, ensuring seamless functionality and robust performance. Leveraging Selenium's powerful capabilities, I verified the registration process, course addition, and inquiry modules, guaranteeing a user-friendly experience. Through meticulous testing, I validated the project's integrity, identifying and rectifying potential issues to deliver a smooth and error-free user interface. This rigorous testing approach enhances the project's reliability, assuring users of a seamless experience while interacting with the platform.
